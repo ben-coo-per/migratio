@@ -7,7 +7,7 @@ This mostly was done in jest in order to make the migration pun about the bird s
 -----------------
 For anyone who would like to use this:
 
-The code should be robust enough that with a few minor changes, you should be able to use this on any dataset with a timestamp and location variable. 
+The code should be robust enough that with a few minor changes, you should be able to use this on any dataset with a timestamp and location variabls; opening this up to some very interesting applications.
 
 The trickiest part will likely be finding the correct geojson files and mapping the data to those shapes, but I'm sure you'll be able to get it with a little effort :)
 
